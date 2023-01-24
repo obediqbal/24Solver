@@ -1,0 +1,4 @@
+A A 6 K 
+
+6*(1+1)+12
+1 solusi ditemukan
